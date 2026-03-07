@@ -1,0 +1,10 @@
+{
+  "globalContext": "Wir sind eine Familie mit 2 Erwachsenen und 1 Kind (ca. 1 Jahre). Wir kochen immer frisch.",
+  "adults": 2,
+  "children": 1,
+  "adultKcal": 1750,
+  "childKcal": 1400,
+  "diet": "Ein Erwachsener ist Omnivore, ein Erwachsener ist Vegetarisch",
+  "preferences": "Schnelle Gerichte (30–45 Min.), international, abwechslungsreich, sättigende Gerichte",
+  "dislikes": "Kein Fisch, keine scharfen Gewürze"
+}
